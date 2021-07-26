@@ -9,7 +9,7 @@
 
 Sir Joseph Dalton Hooker OM GCSI CB PRS (30 June 1817 – 10 December 1911) was a British botanist and explorer in the 19th century. He was a founder of geographical botany and Charles Darwin's closest friend. For twenty years he served as director of the Royal Botanical Gardens, Kew, succeeding his father, William Jackson Hooker, and was awarded the highest honours of British science.[1][2]
 
-<param ve-image="https://upload.wikimedia.org/wikipedia/commons/1/17/Joseph_Dalton_Hooker_Litho.jpg">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/17/Joseph_Dalton_Hooker_Litho.jpg">
 
 ## Voyage to the Antarctic 1839–1843
 Main article: Ross expedition
