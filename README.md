@@ -2,7 +2,7 @@
 
 <param ve-config
        title="Joseph Dalton Hooker"
-       banner="https://upload.wikimedia.org/wikipedia/commons/3/32/Joseph_Dalton_Hooker_NLM3.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/b/b2/Hooker_Himalayan.jpg"
        author="Christina Hourigan"
        layout="vertical">
 
