@@ -9,6 +9,8 @@
 
 Sir Joseph Dalton Hooker OM GCSI CB PRS (30 June 1817 – 10 December 1911) was a British botanist and explorer in the 19th century. He was a founder of geographical botany and Charles Darwin's closest friend. For twenty years he served as director of the Royal Botanical Gardens, Kew, succeeding his father, William Jackson Hooker, and was awarded the highest honours of British science.[1][2]
 
+<param ve-image="https://upload.wikimedia.org/wikipedia/commons/1/17/Joseph_Dalton_Hooker_Litho.jpg">
+
 ## Voyage to the Antarctic 1839–1843
 Main article: Ross expedition
 Hooker's first expedition, followed by James Clark Ross, consisted of two ships, HMS Erebus and HMS Terror; it was the last major voyage of exploration made entirely under sail.[13] Hooker was the youngest of the 128-man crew. He sailed on the Erebus and was assistant to Robert McCormick, who in addition to being the ship's Surgeon was instructed to collect zoological and geological specimens.[14] The ships sailed on 30 September 1839. Before journeying to Antarctica they visited Madeira, Tenerife, Santiago and Quail Island in the Cape Verde archipelago, St Paul Rocks, Trinidade east of Brazil, St Helena, and the Cape of Good Hope. Hooker made plant collections at each location and while travelling drew these and specimens of algae and sea life pulled aboard using tow nets.
