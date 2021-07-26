@@ -1,5 +1,8 @@
+<a href="https://juncture-digital.org"><img src=https://juncture-digital.org/images/vebutton.png"></a>
+
 <param ve-config
        title="Joseph Dalton Hooker"
+       banner="https://commons.wikimedia.org/wiki/File:Joseph_Dalton_Hooker_NLM3.jpg"
        author="Christina Hourigan"
        layout="vertical">
 
